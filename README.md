@@ -1,8 +1,8 @@
-<h3 align="left">Hi 👋! My name is Jumana -  Ai Software Develper / Content Media Creator.</h3>
+<h2 align="center">Hi 👋! I am Jumana</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h6 align="center">| Ai Software Developer - Content Media Creator |</h6>
 
 ###
 
@@ -45,19 +45,24 @@
   </a>
 </div>
 
-##### Hi there 👋
+###
 
-<!--
-**jumanaMR/jumanaMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/https://github.com/jumanaMR/jumanaMR.git/https://github.com/jumanaMR/jumanaMR.git/snake-output/snake.svg" alt="Snake animation" />
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/jumanaMR/jumanaMR.git.https://github.com/jumanaMR/jumanaMR.git&"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
