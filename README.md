@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">| Ai Software Developer - Content Media Creator |</h6>
+<h6 align="center">| Ai Engineer - Content Media Creator |</h6>
 
 ###
 
